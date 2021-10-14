@@ -1,3 +1,3 @@
 module github.com/ytkg/git-not-young
 
-go 1.13.7
+go 1.17
