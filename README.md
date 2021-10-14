@@ -9,7 +9,7 @@ You are forced to use git checkout instead of git switch and git restore by `git
 
 ### Install
 ```shell
-go get -u github.com/ytkg/git-not-young/
+go install github.com/ytkg/git-not-young@latest
 ```
 
 ### Settings
